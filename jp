@@ -4,4 +4,4 @@
 #EXTINF:-1 group-title="SunTV" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN 1
 http://42.114.43.221:9394/stream/23.m3u8
 #EXTINF:-1 group-title="SunTV" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN 2
-https://vn.utako.moe/suntv/index.m3u8
+http://203.162.235.68/streams/media/sun_960x540/index.m3u8
